@@ -1,0 +1,10 @@
+{
+	"personId": 12,
+	"personName": "karan",
+	"personAge": 12,
+	"address": {
+		"city": "Bangalore",
+		"country": "India",
+		"pinCode": 9
+	}
+}
